@@ -1,6 +1,6 @@
 # Knowledge Base Chatbot 📚
 
-Knowledge Base Chatbot answers all your queries related to support and faq's.
+Knowledge Base Chatbot answers all your queries.
 
 ## Description
 
