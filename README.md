@@ -67,7 +67,7 @@ Langchain, an open source framework for building LLM application has been used.
    ```
    streamlit run app.py
    ```
-##Future Developements
+## Future Developements
 1. Read data from a database, say Postgres, instead of uploading docs.
 2. Feedback Mechanism, allowing user to rate the answer.
 3. Image Support
